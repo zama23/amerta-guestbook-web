@@ -1,0 +1,11 @@
+h1 {
+  font-family: "Berkshire Swash", cursive;
+}
+
+.wrapper {
+  background: url("https://img.freepik.com/free-photo/vivid-blurred-colorful-wallpaper-background_58702-3798.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}

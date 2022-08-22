@@ -1,0 +1,13 @@
+DirectoryIndex dashboard.php index.php index.html
+
+RewriteEngine On
+RewriteRule ^auth$ masuk.php
+RewriteRule ^dashboard$ dashboard.php
+RewriteRule ^tamu$ tamu.php
+RewriteRule ^master$ master-data.php
+RewriteRule ^welcome$ layar-awal.php
+RewriteRule ^import$ import.php
+RewriteRule ^akun$ akun.php
+RewriteRule ^server$ amertaadmin/home.php
+RewriteRule ^newuser$ amertaadmin/user-baru.php
+RewriteRule ^users$ amertaadmin/pengguna.php
